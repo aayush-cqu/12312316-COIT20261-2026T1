@@ -9,5 +9,5 @@
 ![Network-Screenshot](images/GNS-Intro-12312316-network.png) 
 
 3. Screenshot of console showing IP Address \
-[Console-screenshot](images/GNS-Intro-12312316-ipaddress.png)
+![Console-screenshot](images/GNS-Intro-12312316-ipaddress.png)
  
