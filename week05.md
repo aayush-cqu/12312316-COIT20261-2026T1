@@ -24,7 +24,7 @@
 
 
 2. Screenshot of Network \
-![Network-Screenshot](images/Vlan-basics(12312316)-network.png)
+![Network-Screenshot](images/Vlan-Router(12312316)-Router.png)
 
 
 
