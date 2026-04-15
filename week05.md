@@ -14,4 +14,4 @@
 
 
 2. Screenshot of Ports and Tags \
-![PortsandTags-Screenshot](images/GNS-Intro-12312316-network.png) 
+![PortsandTags-Screenshot](images/Vlan-basics(12312316)-ports.png) 
