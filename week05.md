@@ -2,9 +2,7 @@
 ## Task 1: Setup VLANs on Switch
 ## Outputs
 
-1. GNS3 project
-
-   
+1. GNS3 project \
 [Vlan-basics](Vlan-basics-12312316.gns3project)
 
 
@@ -15,3 +13,8 @@
 
 2. Screenshot of Ports and Tags \
 ![PortsandTags-Screenshot](images/Vlan-basics(12312316)-ports.png) 
+
+
+
+## Task 1: Setup VLANs on Switch
+## Outputs
