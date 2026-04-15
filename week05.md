@@ -16,5 +16,5 @@
 
 
 
-## Task 1: Setup VLANs on Switch
+## Task 2: Setup VLANs on a Router
 ## Outputs
