@@ -41,22 +41,14 @@ The IP for Host4 is assigned using command from console ( *ip address add <ipadd
 ## Outputs
 
 1. Ping command output \
-![Ping-Screenshot](Images/Ping-Basics-12219173-Simple.png)
+![Ping-Screenshot](images/Ping-Basics-12312316-simple.png)
 
 2. Ping command and output to a wrong IP \
-![Ping-Screenshot](Images/Ping-Basics-12219173-Error.png)
+![Ping-Screenshot](images/Ping-Basics-12312316-error.png)
 
-3. Ping command (and output) when limiting the count, setting the data size and interval to non-default values.
+3. Ping command (and output) when limiting the count, setting the data size and interval to non-default values kept all together.
 
-With Count Limit \
-![Ping-Screenshot](Images/Ping-Basics-12219173-CountLimit.png)
+With all options \
+![Ping-Screenshot](images/Ping-Basics-12312316-options.png)
 
-With Custom Data Size \
-![Ping-Screenshot](Images/Ping-Basics-12219173-Size.png)
-
-With Custom Interval \
-![Ping-Screenshot](Images/Ping-Basics-12219173-Intervel.png)
-
-Customized Ping using various custom paramaters \
-![Ping-Screenshot](Images/Ping-Basics-12219173-All.png)
 
