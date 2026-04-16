@@ -10,28 +10,28 @@
 
 3. IP Address of Hosts 
 
-**Host 1 and Host 2** \
 
-**Host 1** 
+
+**Host 1** \
 ![Host-Screenshot](images/Setting-IP-12312316-host1.png) 
 
-**Host 2** 
+**Host 2** \
 ![Host-Screenshot](images/Setting-IP-12312316-host2.png) 
 
 
 **Host 3** 
 
-The IP for Host3 is assigned using command from terminal ( *ip address add <ipaddress>/<mask> dev eth0* ) \
-*#ip address 10.1.1.4/24 dev eth0* \
-The IP Configuration gets erased upon restart of the linux host.
+The IP is assigned via console. Open Host3 terminal and edit the configuration file *interfaces* located in /etc/network directory.
+Used text editor nano to edit the configuration file. \
+The IP assigned is fixed and the restart doesnt removed the IP. 
+
+
 
 ![Host-Screenshot](images/Setting-IP-12312316-host3.png) 
 
 **Host 4** 
 
-The IP is assigned via terminal. Open host4 terminal and edit the configuration file *interfaces* located in /etc/network directory.
-Used text editor nano to edit the configuration file. \
-The IP assigned is fixed and the restart doesnt removed the IP. 
+The IP for Host4 is assigned using command from console ( *ip address add <ipaddress>/<mask> dev eth0* ) \
 
 ![Host-Screenshot](images/Setting-IP-12312316-host4.png) 
 
