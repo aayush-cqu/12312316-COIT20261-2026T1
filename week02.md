@@ -11,14 +11,12 @@
 3. IP Address of Hosts 
 
 **Host 1 and Host 2** \
-The IP address for Host1 and Host2 are assigned manually from the configure menu in GNS3 by removing the # from some commands.\
-The IP assigned are not interupted by restart of the device.
 
 **Host 1** 
-![Host-Screenshot](Images/Setting-IP-12219173-Host1.png) 
+![Host-Screenshot](images/Setting-IP-12312316-host1.png) 
 
 **Host 2** 
-![Host-Screenshot](Images/Setting-IP-12219173-Host2.png) 
+![Host-Screenshot](images/Setting-IP-12312316-host2.png) 
 
 
 **Host 3** 
@@ -27,7 +25,7 @@ The IP for Host3 is assigned using command from terminal ( *ip address add <ipad
 *#ip address 10.1.1.4/24 dev eth0* \
 The IP Configuration gets erased upon restart of the linux host.
 
-![Host-Screenshot](Images/Setting-IP-12219173-Host3.png) 
+![Host-Screenshot](images/Setting-IP-12312316-host3.png) 
 
 **Host 4** 
 
@@ -35,7 +33,7 @@ The IP is assigned via terminal. Open host4 terminal and edit the configuration 
 Used text editor nano to edit the configuration file. \
 The IP assigned is fixed and the restart doesnt removed the IP. 
 
-![Host-Screenshot](Images/Setting-IP-12219173-Host4.png) 
+![Host-Screenshot](images/Setting-IP-12312316-host4.png) 
 
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
