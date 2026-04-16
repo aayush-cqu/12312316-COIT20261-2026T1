@@ -21,9 +21,7 @@
 
 **Host 3** 
 
-The IP is assigned via console. Open Host3 terminal and edit the configuration file *interfaces* located in /etc/network directory.
-Used text editor nano to edit the configuration file. \
-The IP assigned is fixed and the restart doesnt removed the IP. 
+The IP is assigned via console.
 
 
 
