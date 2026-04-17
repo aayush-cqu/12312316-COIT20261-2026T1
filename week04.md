@@ -1,4 +1,11 @@
 # Week 04: Routing
+
+# Theory
+
+## Routing Table
+A routing table is a set of rules stored in a host or router that determines where IP packets should be sent. Each entry usually contains the destination network, next hop, and outgoing interface. Routing tables are essential for communication between different networks. :contentReference[oaicite:0]{index=0}
+
+
 # Task 1: View Routing Tables  
 1. GNS3 Project file      
 [GNS3 File](GNS3_files/View-Route-12312316.gns3project)   
