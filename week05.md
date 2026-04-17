@@ -3,7 +3,7 @@
 ## Outputs
 
 1. GNS3 project \
-[Vlan-basics](Vlan-basics-12312316.gns3project)
+[Vlan-basics](GNS3_files/Vlan-basics-12312316.gns3project)
 
 
 2. Screenshot of Network \
