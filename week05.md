@@ -20,7 +20,7 @@
 ## Outputs
 
 1. GNS3 project \
-[Vlan-Router](Vlan-Router-12312316.gns3project)
+[Vlan-Router](GNS3_files/Vlan-Router-12312316.gns3project)
 
 
 2. Screenshot of Network \
