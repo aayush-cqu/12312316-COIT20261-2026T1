@@ -20,3 +20,17 @@ The purpose of this task was to become familiar with the basic features of GNS3,
 3. Screenshot of console showing IP Address \
 ![Console-screenshot](images/GNS-Intro-12312316-ipaddress.png)
  
+
+
+
+## Testing Results
+- Successfully created a new GNS3 project with the required naming format.
+- Added one Linux Host node to the workspace.
+- Added annotations showing project title, name, student ID, and date.
+- Configured a static IP address on `eth0` using the `/etc/network/interfaces` file.
+- Started the node without errors.
+- Opened the web console successfully.
+- Verified the assigned IP address using the command:
+
+```bash
+ifconfig
