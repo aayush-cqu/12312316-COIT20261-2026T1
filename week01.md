@@ -34,3 +34,41 @@ The purpose of this task was to become familiar with the basic features of GNS3,
 
 ```bash
 ifconfig
+
+
+
+
+## Reflections
+
+This week helped me understand the basic use of GNS3 and how virtual networks can be created without physical devices. I learned how to add nodes, configure devices, and use annotations to make the topology clear and organised. Configuring a static IP address in Linux gave me practical experience with basic networking commands and files. At first, navigating the GNS3 interface was new to me, but after completing the task I became more confident using the software.
+
+## Notes on Key Concepts Learned
+
+#GNS3
+
+GNS3 is a network simulation platform that allows users to build and test network topologies using virtual devices.
+
+Static IP Address
+
+A static IP address is manually assigned to a device and remains the same until changed by the user.
+
+Network Interface
+
+eth0 is the first Ethernet interface on the Linux Host used for network communication.
+
+Subnet Mask
+
+The subnet mask defines the network and host portion of an IP address. Example: 255.255.255.0 for a /24 network.
+
+IP Forwarding
+
+IP forwarding allows a device to route packets between interfaces. It is usually disabled on hosts and enabled on routers.
+
+
+## Learnings
+How to create and save a project in GNS3
+How to add and start a Linux Host node
+How to configure a static IP address
+How to use the Linux console in a browser
+How to verify configuration using commands
+
