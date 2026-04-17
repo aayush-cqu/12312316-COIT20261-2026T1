@@ -8,7 +8,7 @@
 [Week02 -Encapsulation and Decapsulation](./week02.md)
 
 
-[Week03 -The TCP and IP Protocols](./week03.md)
+
 
 
 [Week04 -Routing](./week04.md)
