@@ -3,7 +3,7 @@
 ## Outputs
 
 1. GNS3 File \
-[GNS3-Intro](GNS-Intro-12312316.gns3project) 
+[GNS3-Intro](GNS3_files/GNS-Intro-12312316.gns3project) 
 
 2. Screenshot of Network \
 ![Network-Screenshot](images/GNS-Intro-12312316-network.png) 
