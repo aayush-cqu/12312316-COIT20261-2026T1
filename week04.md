@@ -21,7 +21,7 @@
 [GNS3-SPFile](GNS3_files/OSPF-Basics-12312316.gns3project)   
 
 2. Network Diagram demonstrating OSPF     
-![IPRoutes-Scr](Images/OSPF-Basics-12219173-network.png)   
+![IPRoutes-Scr](images/OSPF-Basics-12312316-network.png)   
 
 3. Neigbour routers of FRR1     
 ![OSPF-Screenshot](images/OSPF-Basics-12312316-network.png)   
