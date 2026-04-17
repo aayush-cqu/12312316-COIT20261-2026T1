@@ -5,7 +5,7 @@
 ## Outputs    
 
 1. Host1 ARP    
-![Screenshot ARP ](Images/ARP-Basics-12219173-Host1-Table.png)   
+![Screenshot ARP ](images/ARP-table-12312316-HostA-table.png)   
 
 
 ## Task 2: Default Gateways
@@ -14,7 +14,7 @@
 ![VLAN GNS3 File](GNS3_files/Default-Gateway-12312316.gns3project)   
 
 2. Network Diagram    
-![Screenshot Network VLAN](Images/Default-Gateway-12219173-Network.png)   
+![Screenshot Network VLAN](images/Default-Gateway-12312316-network.png)   
 
 3. Ports and Tags    
 Interface Details
@@ -43,4 +43,4 @@ Route Details
 
 4. Ping to Other Network
 
-![Screenshot Network VLAN](Images/Default-Gateway-12219173-Ping.png)   
+![Screenshot Network VLAN](images/Default-Gateway-12312316-ping.png)   
