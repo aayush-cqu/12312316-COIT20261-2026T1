@@ -94,27 +94,27 @@ This week helped me understand how devices communicate inside a LAN using MAC ad
 
 ## Notes on Key Concepts Learned
 
-# ARP
+### ARP
 
   ARP (Address Resolution Protocol) is used to map an IP address to a MAC address on a local network.
 
-# ARP Table
+### ARP Table
 
   An ARP table stores known IP-to-MAC address mappings for neighbouring devices.
 
-# MAC Address
+### MAC Address
 
   A MAC address is the physical hardware address of a network interface card used for communication in a LAN.
 
-# Neighbour State
+### Neighbour State
 
   States such as REACHABLE, STALE, or DELAY indicate the current status of ARP entries.
 
-# Default Gateway
+### Default Gateway
 
   A default gateway is the router used by a host to send traffic to networks outside its local subnet.
 
-# Routing Table
+### Routing Table
 
   A routing table contains destinations, gateways, and interfaces used to forward packets.
 
