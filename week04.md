@@ -4,16 +4,14 @@
 [GNS3 File](GNS3_files/View-Route-12312316.gns3project)   
 
 2. Network Diagram   
-![Screenshot](Images/View-Routes-12219173-network.png)
+![Screenshot](images/View_routes-12312316-network.png)
 
 3. Record of IP Routes   
-![IPRoutes-Scr](Images/View-Routes-12219173-host1-route.png)   
-![IPRoutes-Scr](Images/View-Routes-12219173-host2-route.png)   
-![IPRoutes-Scr](Images/View-Routes-12219173-router-route.png)   
-![IPRoutes-Scr](Images/View-Routes-12219173-host3-route.png)   
+![IPRoutes-Screenshot](images/View_routes-12312316-Ipaddress-routingtable.png)   
+  
 
 4. Ping to other network       
-![Ping-SShot](Images/View-Routes-12219173-ping.png)   
+![Ping-Screenshot](images/View_routes-12312316-ping.png)   
 
 ## Task 2: Dynamic Routing with OSPF
 
@@ -26,11 +24,11 @@
 ![IPRoutes-Scr](Images/OSPF-Basics-12219173-network.png)   
 
 3. Neigbour routers of FRR1     
-![OSPF-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)   
+![OSPF-Screenshot](images/OSPF-Basics-12312316-network.png)   
 
 4. Routing table for two routers       
-![OSPFTable-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png)     
-![OSPFTable-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)    
+![OSPFTable-Screenshot](images/OSPF-12312316-routingtable-frr1.png)     
+![OSPFTable-Screenshot](images/OSPF-12312316-routingtable-frr2.png)    
 
 5. Routing Table Summary    
 
@@ -84,9 +82,9 @@
 
 
 6. Traceroute Command Output    
-* Without stopping NETem      
-![TracerouteScreenshot](Images/OSPF-Basics-12219173-network-traceroute.png)   
+* Without stopping NETem 1     
+![TracerouteScreenshot](images/FRR1-12312316-noterminating.png)   
 
 * Stopping NETem 1     
-![TracerouteScreenshot](Images/OSPF-Basics-12219173-network-traceroute-linkdown.png)   
+![TracerouteScreenshot](images/FRR1-12312316-terminating.png)   
 
