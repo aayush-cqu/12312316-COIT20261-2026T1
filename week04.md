@@ -23,14 +23,13 @@
 2. Network Diagram demonstrating OSPF     
 ![IPRoutes-Scr](images/OSPF-Basics-12312316-network.png)   
 
-3. Neigbour routers of FRR1     
-![OSPF-Screenshot](images/OSPF-Basics-12312316-network.png)   
+ 
 
 4. Routing table for two routers       
 ![OSPFTable-Screenshot](images/OSPF-12312316-routingtable-frr1.png)     
 ![OSPFTable-Screenshot](images/OSPF-12312316-routingtable-frr2.png)    
 
-5. Routing Table Summary    
+   
 
 # OSPF Verification Commands and Routing Summary
 
