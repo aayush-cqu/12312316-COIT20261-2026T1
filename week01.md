@@ -32,8 +32,7 @@ The purpose of this task was to become familiar with the basic features of GNS3,
 - Opened the web console successfully.
 - Verified the assigned IP address using the command:
 
-```bash
-ifconfig
+                                    ifconfig
 
 
 
@@ -67,8 +66,12 @@ IP forwarding allows a device to route packets between interfaces. It is usually
 
 ## Learnings
 How to create and save a project in GNS3
+
 How to add and start a Linux Host node
+
 How to configure a static IP address
+
 How to use the Linux console in a browser
+
 How to verify configuration using commands
 
