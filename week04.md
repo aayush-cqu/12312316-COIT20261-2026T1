@@ -20,7 +20,7 @@
 ## Outputs
 
 1. GNS3 File demonstrating OSPF    
-[GNS3-SPFile](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)   
+[GNS3-SPFile](GNS3_files/OSPF-Basics-12312316.gns3project)   
 
 2. Network Diagram demonstrating OSPF     
 ![IPRoutes-Scr](Images/OSPF-Basics-12219173-network.png)   
